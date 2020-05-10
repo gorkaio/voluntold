@@ -6,5 +6,5 @@ Peace-of-mind volunteering for blameless teams
 
 ```
 pulumi up
-aws s3 sync www/dist s3://voluntold.todayt 
+aws s3 sync www/dist s3://voluntold.today
 ```
