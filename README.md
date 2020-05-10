@@ -1,6 +1,6 @@
 # Voluntold.today
 
-Blameless voluntelling for peace-of-mind
+Peace-of-mind volunteering for blameless teams
 
 ## Deployment
 
